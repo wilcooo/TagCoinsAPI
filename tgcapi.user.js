@@ -5,12 +5,16 @@
 // @author       Ko
 // @icon         https://raw.githubusercontent.com/wilcooo/TagCoinsAPI/master/three_coins.png
 // @exclude      *
-// @grant        GM_xmlhttpRequest
-// @connect      tagpro.lol
-// @connect      koalabeast.com
 // ==/UserScript==
 
 // WARNING: this API is not finished yet!
+
+// To use the API, add the following four lines to your userscript (in the Metadata section)
+
+// @require      https://greasyfork.org/scripts/36511-tagcoinsapi/code/TagCoinsAPI.js
+// @grant        GM_xmlhttpRequest
+// @connect      tagpro.lol
+// @connect      koalabeast.com
 
 (function(){
 
