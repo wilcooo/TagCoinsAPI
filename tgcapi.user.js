@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TagCoins API
+// @name         TagCoinsAPI
 // @version      0.1
 // @description  Enables you to send TGC, receive feedback, and get update events
 // @author       Ko
