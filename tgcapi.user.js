@@ -10,6 +10,8 @@
 // @connect      koalabeast.com
 // ==/UserScript==
 
+// WARNING: this API is not finished yet!
+
 (function(){
 
 
